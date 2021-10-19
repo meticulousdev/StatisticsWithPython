@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e8b25e58-cd0b-4dc2-b96c-10802a163b5d" name="Changes" comment="equation update">
-      <change beforePath="$PROJECT_DIR$/.idea/StatisticsWithPython.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/StatisticsWithPython.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/code/chap05/chap05_01.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/code/chap05/chap05_01.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +59,6 @@
       <workItem from="1632918665444" duration="32000" />
       <workItem from="1632924521853" duration="4595000" />
       <workItem from="1634087993914" duration="1189000" />
-      <workItem from="1634476040748" duration="3000" />
     </task>
     <task id="LOCAL-00001" summary="t-test example">
       <created>1632928614466</created>
