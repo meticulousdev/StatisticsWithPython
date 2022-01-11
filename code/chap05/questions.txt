@@ -1,0 +1,14 @@
+1)
+pearson correlation coefficient
+coefficient of determination
+
+2)
+1. 데이터 호출
+2. 데이터 전처리
+2-1. 변수 선택 (ols -> AIC)
+3. 데이터 분석 
+4. 그래프 플랏
+
+3)
+regression - 95% confidence interval 
+곡선의 형태
