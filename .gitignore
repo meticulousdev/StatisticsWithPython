@@ -5,3 +5,4 @@ temp
 data
 
 .DS_store
+.ipynb_checkpoints
